@@ -1,1 +1,1 @@
-LIVE -  https://resumecreator-hems.netlify.app/builder
+LIVE -  https://resumecreator-hems.netlify.app
